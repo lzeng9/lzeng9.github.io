@@ -410,7 +410,7 @@ ninja.data = [{
           title: '📄 Paper “Decentralized Diffusion: Decomposing Information Diffusion in Federated Social Networks” accepted to...',
           description: "",
           section: "News",},{id: "news-the-cost-of-inaccessibility-was-selected-as-a-best-paper-nominee-at-hicss-59",
-          title: '🏆 “The Cost of Inaccessibility” was selected as a Best Paper Nominee at...',
+          title: '🌟 “The Cost of Inaccessibility” was selected as a Best Paper Nominee at...',
           description: "",
           section: "News",},{id: "news-two-papers-now-available-online-in-hicss-59-the-cost-of-inaccessibility-retail-discrimination-and-mobility-constrained-consumers-and-health-comes-at-a-hidden-cost-strategic-pricing-and-equity-in-heart-supplement-markets",
           title: '📄 Two papers now available online in HICSS 59: “The Cost of Inaccessibility:...',
