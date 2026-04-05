@@ -427,11 +427,11 @@ ninja.data = [{
           description: "Studies community formation, information diffusion, and user behavior on decentralized platforms such as Mastodon.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_decentralizedSM/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-information-pricing-and-inequality-in-consumer-markets",
+          title: 'Information, Pricing, and Inequality in Consumer Markets',
+          description: "Examines how information environments and system structures shape pricing, access, and inequality in consumer markets.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/2_price_disparity/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
