@@ -13,6 +13,6 @@ nav_order: 5
 <p>
   Redirecting to CV...
   <a href="{{ '/assets/pdf/zeng_CV.pdf' | relative_url }}" target="_blank">
-    Download CV
+    View CV
   </a>
 </p>
