@@ -2,6 +2,7 @@
 layout: page
 title: "Information, Pricing, and Inequality in Consumer Markets"
 description: "Examines how information environments and system structures shape pricing, access, and inequality in consumer markets."
+img: assets/img/nielsen_coefplot_aligned.jpg
 importance: 2
 category: ongoing
 related_publications: false
