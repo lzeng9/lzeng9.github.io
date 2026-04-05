@@ -1,81 +1,42 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: "Online Communication on Decentralized Social Media Platforms"
+description: "Studies community formation, information diffusion, and user behavior on decentralized platforms such as Mastodon."
 importance: 1
-category: work
-related_publications: true
+category: ongoing
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Project Description
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Decentralized social media platforms represent a fundamental shift from traditional, centralized networks such as Facebook and Twitter. Platforms like Mastodon operate through federated architectures composed of independent yet interconnected servers (“instances”), enabling greater user autonomy, data privacy, and community-driven governance.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project investigates how decentralized structures shape online communication. In contrast to centralized platforms, where moderation and information flow are controlled by a single entity, decentralized platforms exhibit heterogeneous moderation practices and fragmented network structures. These differences raise important questions about how communities form, interact, and evolve across instances.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The project focuses on three main aspects. First, it examines community formation and interaction dynamics across decentralized instances. Second, it analyzes the mechanisms of information dissemination and virality in federated environments. Third, it explores the role of identity, pseudonymity, and anonymity in shaping user behavior, discourse quality, and engagement.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+By studying these dimensions, the project aims to provide a deeper understanding of communication patterns and social dynamics in decentralized online environments.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+---
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Collaborators
 
-{% raw %}
+- Sijia Ma (Tilburg University)
+- Giulia Sturlese (Leiden University)
+- Seeun Kim (Tilburg University) 
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+---
 
-{% endraw %}
+## Research Papers
+
+- **Decentralized Diffusion: Decomposing Information Cascades in Federated Social Networks**  
+  *Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 2026.* (Upcoming)  
+  Li Zeng, Sijia Ma, Seeun Kim, and Giulia Sturlèse.
+
+- **Real Name, Real Face, Real Talk? Anonymity and Toxicity on Mastodon**  
+  *ICWSM Workshop, 2025.*  
+  Krzysztof Wójcik, Li Zeng, and Sijia Ma.
+
+- **Sentiment Dynamics and Shifts across Instances on Mastodon**  
+  *ICWSM Workshop, 2025.*  
+  Seeun Kim, Li Zeng, Sijia Ma, and Giulia Sturlèse.
