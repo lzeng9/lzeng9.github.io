@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Assistant Professor</a>, [Tilburg School of Social and Behavioural Sciences](https://www.tilburguniversity.edu/about/schools/socialsciences), [Tilburg University](https://www.tilburguniversity.edu/).
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Reitse Poort 16</p>
+    <p>Tilburg University</p>
+    <p>Tilburg, Netherlands</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Li Zeng is an Assistant Professor at the Department of Methodology and Statistics at Tilburg University. She earned her Ph.D. in Information Science from the University of Washington. She also holds a M.S. in Information Science from the University of Washington and a B.A. in Information Management and Information Systems from the Communication University of China.
+
+Dr. Zeng develops theory and methods for the analysis of large-scale social media data with a focus on how such data can be used to better understand human behavior and improve social systems, combining techniques from Machine Learning, Social Network Analysis, and Natural Language Processing. Her research has been published in AAAI ICWSM, IEEE HICSS, iConference and Field Methods.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
