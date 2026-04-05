@@ -442,7 +442,7 @@ Photo formatting is made simple using [Bootstrap's grid system](https://getboots
 
 ---
 
-### Other features
+### Other features - update
 
 #### GitHub's repositories and user stats
 
