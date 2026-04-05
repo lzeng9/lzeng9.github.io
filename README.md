@@ -274,7 +274,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
       - [The iconic style of Distill](#the-iconic-style-of-distill)
       - [Full support for math &amp; code](#full-support-for-math--code)
       - [Photos, Audio, Video and more](#photos-audio-video-and-more)
-    - [Other features](#other-features)
+    - [Other features - update](#other-features---update)
       - [GitHub's repositories and user stats](#githubs-repositories-and-user-stats)
       - [Theming](#theming)
       - [Social media previews](#social-media-previews)
