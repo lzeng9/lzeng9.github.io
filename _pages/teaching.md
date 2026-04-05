@@ -6,8 +6,6 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching
-
 ### 500189-B-6: Introduction to Data Science  
 **Tilburg University**, Tilburg, Netherlands  
 **Block 4, 2022--present** · Lecturer and Course Coordinator
