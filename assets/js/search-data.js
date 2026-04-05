@@ -426,7 +426,7 @@ ninja.data = [{
           title: 'Online Communication on Decentralized Social Media Platforms',
           description: "Studies community formation, information diffusion, and user behavior on decentralized platforms such as Mastodon.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_decentralizedSM/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
