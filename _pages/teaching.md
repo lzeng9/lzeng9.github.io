@@ -13,7 +13,7 @@ nav_order: 6
 This undergraduate course introduces students to the foundations of data science with an emphasis on practical application using R. Topics include data cleaning and visualization, exploratory data analysis, supervised and unsupervised learning, and model evaluation. I am fully responsible for course design, lectures, and computer labs, and I developed all teaching materials including lecture slides, assignments, and coding exercises.
 
 ### JBI030: Data Mining and Machine Learning  
-**Tilburg University & Eindhoven University of Technology**, Netherlands  
+**Tilburg University** & **Eindhoven University of Technology**, Netherlands  
 **Block 2, 2022--present** · Lecturer
 
 This undergraduate course introduces key concepts and techniques in data mining, with a focus on practical model implementation and evaluation in Python. I serve as co-lecturer and am primarily responsible for the supervised learning component, covering topics such as logistic regression, Naive Bayes, support vector machines, decision trees, and neural networks.
