@@ -422,9 +422,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-now-available-online-in-hicss-59-the-cost-of-inaccessibility-retail-discrimination-and-mobility-constrained-consumers-and-health-comes-at-a-hidden-cost-strategic-pricing-and-equity-in-heart-supplement-markets",
           title: '📄 Two papers now available online in HICSS 59: “The Cost of Inaccessibility:...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-online-communication-on-decentralized-social-media-platforms",
+          title: 'Online Communication on Decentralized Social Media Platforms',
+          description: "Studies community formation, information diffusion, and user behavior on decentralized platforms such as Mastodon.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
