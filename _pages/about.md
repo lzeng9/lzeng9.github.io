@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Assistant Professor</a>, [Tilburg School of Social and Behavioural Sciences](https://www.tilburguniversity.edu/about/schools/socialsciences), [Tilburg University](https://www.tilburguniversity.edu/).
+subtitle: <a href='#'>Assistant Professor</a>, Tilburg School of Social and Behavioural Sciences, Tilburg University.
 
 profile:
   align: right
