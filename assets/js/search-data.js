@@ -432,11 +432,11 @@ ninja.data = [{
           description: "Examines how information environments and system structures shape pricing, access, and inequality in consumer markets.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_price_disparity/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-generative-ai-and-information-representation",
+          title: 'Generative AI and Information Representation',
+          description: "Examines how generative AI transforms the creation, personalization, and presentation of information in consumer environments.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_genAI/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
