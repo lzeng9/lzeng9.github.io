@@ -405,16 +405,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-paper-decentralized-diffusion-decomposing-information-diffusion-in-federated-social-networks-accepted-to-icwsm-2026",
+          title: 'Paper “Decentralized Diffusion: Decomposing Information Diffusion in Federated Social Networks” accepted to ICWSM...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
