@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-27'
 papers:
   ztoH39AAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: A Design of Mobile Payments Business Model Based on Value Network
     year: '2013'
+  ztoH39AAAAAJ:LkGwnXOMwfcC:
+    citations: 9
+    title: "Technical trends and competitive situation in respect of metahuman\u2014from product modules and technical topics to patent data"
+    year: '2022'
   ztoH39AAAAAJ:Tyk-4Ss8FVUC:
     citations: 14
     title: 'Stay connected and keep motivated: Modeling activity level of exercise in an online fitness community'
@@ -29,10 +33,6 @@ papers:
     citations: 100
     title: '# Unconfirmed: Classifying rumor stance in crisis-related social media messages'
     year: '2016'
-  ztoH39AAAAAJ:YsMSGLbcyi4C:
-    citations: 0
-    title: 'Strava Club Visualizer: A Social Fitness Visualization on Cyclists'
-    year: Unknown Year
   ztoH39AAAAAJ:_FxGoFyzp5QC:
     citations: 0
     title: 'Health Comes at a Hidden Cost: Strategic Pricing and Equity in Heart Supplement Markets'
@@ -44,10 +44,6 @@ papers:
   ztoH39AAAAAJ:eQOLeE2rZwMC:
     citations: 26
     title: 'How KOLs influence consumer purchase intention in short video platforms: mediating effects of emotional response and virtual touch'
-    year: '2022'
-  ztoH39AAAAAJ:qjMakFHDy7sC:
-    citations: 0
-    title: Social Support on Fitness Behavior in an Online Fitness Community
     year: '2022'
   ztoH39AAAAAJ:u-x6o8ySG0sC:
     citations: 7
