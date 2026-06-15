@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-15'
 papers:
   ztoH39AAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -42,9 +42,13 @@ papers:
     title: Sentiment Dynamics and Shifts across Instances on Mastodon
     year: '2025'
   ztoH39AAAAAJ:eQOLeE2rZwMC:
-    citations: 28
+    citations: 30
     title: 'How KOLs influence consumer purchase intention in short video platforms: mediating effects of emotional response and virtual touch'
     year: '2022'
+  ztoH39AAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: 'Decentralized Diffusion: Decomposing Information Diffusion in Federated Social Networks'
+    year: '2026'
   ztoH39AAAAAJ:u-x6o8ySG0sC:
     citations: 7
     title: Unbiased sampling of users from (online) activity data
